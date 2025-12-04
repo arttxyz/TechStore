@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone XYZ Pro",
+    "category": "Celulares",
+    "brand": "TechBrand",
+    "price": 2499.99,
+    "originalPrice": 2999.99,
+    "discount": 16,
+    "rating": 4.5,
+    "reviews": 128,
+    "images": ["/images/products/phone-1.jpg", "/images/products/phone-2.jpg", "/images/products/phone-3.jpg"],
+    "description": "Smartphone com câmera tripla de última geração, processador ultra-rápido e bateria de longa duração.",
+    "specs": {
+      "tela": "6.7\" AMOLED",
+      "processador": "Snapdragon 888",
+      "ram": "8GB",
+      "armazenamento": "256GB"
+    },
+    "stock": 15,
+    "features": ["5G", "Câmera 108MP", "Carregamento rápido"]
+  },
+  {
+    "id": 2,
+    "name": "Laptop Gaming Ultra",
+    "category": "Computadores",
+    "brand": "TechBrand",
+    "price": 5999.99,
+    "originalPrice": 7499.99,
+    "discount": 20,
+    "rating": 4.8,
+    "reviews": 89,
+    "images": ["/images/products/laptop-1.jpg", "/images/products/laptop-2.jpg", "/images/products/laptop-3.jpg"],
+    "description": "Laptop gaming de alto desempenho com GPU dedicada, tela 144Hz e sistema de resfriamento avançado.",
+    "specs": {
+      "processador": "Intel i9-12900H",
+      "gpu": "RTX 3080 Ti",
+      "ram": "32GB DDR5",
+      "tela": "16\" 144Hz"
+    },
+    "stock": 8,
+    "features": ["RTX 3080 Ti", "144Hz", "SSD 1TB NVMe"]
+  },
+  {
+    "id": 3,
+    "name": "Fone Bluetooth Premium",
+    "category": "Áudio",
+    "brand": "SoundTech",
+    "price": 899.99,
+    "originalPrice": 1199.99,
+    "discount": 25,
+    "rating": 4.3,
+    "reviews": 256,
+    "images": ["/images/products/headphone-1.jpg", "/images/products/headphone-2.jpg", "/images/products/headphone-3.jpg"],
+    "description": "Fone de ouvido Bluetooth com cancelamento de ruído ativo, som Hi-Fi e bateria de 40 horas.",
+    "specs": {
+      "tipo": "Over-ear",
+      "conexao": "Bluetooth 5.3",
+      "bateria": "40 horas",
+      "peso": "250g"
+    },
+    "stock": 32,
+    "features": ["ANC", "Bluetooth 5.3", "40h bateria"]
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Pro",
+    "category": "Wearables",
+    "brand": "TechBrand",
+    "price": 1299.99,
+    "originalPrice": 1699.99,
+    "discount": 23,
+    "rating": 4.6,
+    "reviews": 145,
+    "images": ["/images/products/watch-1.jpg", "/images/products/watch-2.jpg", "/images/products/watch-3.jpg"],
+    "description": "Relógio inteligente com monitoramento de saúde avançado, GPS integrado e tela AMOLED sempre ativa.",
+    "specs": {
+      "tela": "1.4\" AMOLED",
+      "bateria": "14 dias",
+      "resistencia": "5ATM",
+      "sensores": "GPS, SpO2, ECG"
+    },
+    "stock": 24,
+    "features": ["GPS", "AMOLED", "14 dias"]
+  },
+  {
+    "id": 5,
+    "name": "Câmera Digital 4K",
+    "category": "Câmeras",
+    "brand": "PixelCam",
+    "price": 3499.99,
+    "originalPrice": 4299.99,
+    "discount": 18,
+    "rating": 4.7,
+    "reviews": 67,
+    "images": ["/images/products/camera-1.jpg", "/images/products/camera-2.jpg", "/images/products/camera-3.jpg"],
+    "description": "Câmera digital profissional com gravação 4K 60fps, sensor full-frame e estabilização óptica.",
+    "specs": {
+      "sensor": "Full-frame 45MP",
+      "video": "4K 60fps",
+      "lentes": "24-70mm",
+      "peso": "650g"
+    },
+    "stock": 6,
+    "features": ["4K 60fps", "45MP", "Estabilização óptica"]
+  },
+  {
+    "id": 6,
+    "name": "Tablet Multimídia",
+    "category": "Tablets",
+    "brand": "TechBrand",
+    "price": 1999.99,
+    "originalPrice": 2499.99,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 112,
+    "images": ["/images/products/tablet-1.jpg", "/images/products/tablet-2.jpg", "/images/products/tablet-3.jpg"],
+    "description": "Tablet com tela 12.9\" OLED, processador de última geração e suporte a stylus.",
+    "specs": {
+      "tela": "12.9\" OLED",
+      "processador": "A17 Pro",
+      "ram": "12GB",
+      "armazenamento": "512GB"
+    },
+    "stock": 18,
+    "features": ["OLED", "Stylus", "512GB"]
+  },
+  {
+    "id": 7,
+    "name": "Monitor Gaming 4K",
+    "category": "Monitores",
+    "brand": "DisplayPro",
+    "price": 2299.99,
+    "originalPrice": 2899.99,
+    "discount": 20,
+    "rating": 4.5,
+    "reviews": 98,
+    "images": ["/images/products/monitor-1.jpg", "/images/products/monitor-2.jpg", "/images/products/monitor-3.jpg"],
+    "description": "Monitor gaming 4K com taxa de atualização 144Hz, HDR10 e tempo de resposta 1ms.",
+    "specs": {
+      "tamanho": "32 polegadas",
+      "resolucao": "4K (3840x2160)",
+      "taxa": "144Hz",
+      "resposta": "1ms"
+    },
+    "stock": 12,
+    "features": ["4K", "144Hz", "HDR10"]
+  },
+  {
+    "id": 8,
+    "name": "SSD NVMe 2TB",
+    "category": "Armazenamento",
+    "brand": "StorageTech",
+    "price": 599.99,
+    "originalPrice": 799.99,
+    "discount": 25,
+    "rating": 4.6,
+    "reviews": 234,
+    "images": ["/images/products/ssd-1.jpg", "/images/products/ssd-2.jpg", "/images/products/ssd-3.jpg"],
+    "description": "SSD NVMe de alta velocidade com leitura até 7000 MB/s e dissipador térmico integrado.",
+    "specs": {
+      "capacidade": "2TB",
+      "interface": "PCIe 4.0",
+      "leitura": "7000 MB/s",
+      "escrita": "6000 MB/s"
+    },
+    "stock": 45,
+    "features": ["PCIe 4.0", "7000 MB/s", "2TB"]
+  },
+  {
+    "id": 9,
+    "name": "Teclado Mecânico RGB",
+    "category": "Periféricos",
+    "brand": "KeyTech",
+    "price": 449.99,
+    "originalPrice": 599.99,
+    "discount": 25,
+    "rating": 4.7,
+    "reviews": 189,
+    "images": ["/images/products/keyboard-1.jpg", "/images/products/keyboard-2.jpg", "/images/products/keyboard-3.jpg"],
+    "description": "Teclado mecânico com switches hot-swap, iluminação RGB personalizável e construção em alumínio.",
+    "specs": {
+      "tipo": "Mecânico",
+      "switches": "Hot-swap",
+      "iluminacao": "RGB",
+      "conexao": "Wireless 2.4GHz"
+    },
+    "stock": 28,
+    "features": ["Hot-swap", "RGB", "Wireless"]
+  },
+  {
+    "id": 10,
+    "name": "Mouse Gamer Sem Fio",
+    "category": "Periféricos",
+    "brand": "MousePro",
+    "price": 199.99,
+    "originalPrice": 299.99,
+    "discount": 33,
+    "rating": 4.5,
+    "reviews": 312,
+    "images": ["/images/products/mouse-1.jpg", "/images/products/mouse-2.jpg", "/images/products/mouse-3.jpg"],
+    "description": "Mouse gamer com sensor 16000 DPI, botões programáveis e bateria de 70 horas.",
+    "specs": {
+      "dpi": "16000",
+      "botoes": "8 programáveis",
+      "bateria": "70 horas",
+      "peso": "95g"
+    },
+    "stock": 52,
+    "features": ["16000 DPI", "8 botões", "70h bateria"]
+  },
+  {
+    "id": 11,
+    "name": "Webcam 4K Pro",
+    "category": "Câmeras",
+    "brand": "WebCamTech",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 76,
+    "images": ["/images/products/webcam-1.jpg", "/images/products/webcam-2.jpg", "/images/products/webcam-3.jpg"],
+    "description": "Webcam 4K com autofoco automático, microfone integrado e campo de visão 90°.",
+    "specs": {
+      "resolucao": "4K",
+      "fps": "30fps",
+      "fov": "90°",
+      "microfone": "Integrado"
+    },
+    "stock": 19,
+    "features": ["4K", "Autofoco", "Microfone"]
+  },
+  {
+    "id": 12,
+    "name": "Carregador Rápido 65W",
+    "category": "Acessórios",
+    "brand": "ChargePro",
+    "price": 149.99,
+    "originalPrice": 199.99,
+    "discount": 25,
+    "rating": 4.6,
+    "reviews": 421,
+    "images": ["/images/products/charger-1.jpg", "/images/products/charger-2.jpg", "/images/products/charger-3.jpg"],
+    "description": "Carregador rápido 65W com suporte a múltiplos dispositivos, proteção contra sobrecarga.",
+    "specs": {
+      "potencia": "65W",
+      "portas": "3x USB-C",
+      "protecao": "Completa",
+      "peso": "120g"
+    },
+    "stock": 78,
+    "features": ["65W", "3x USB-C", "Proteção"]
+  }
+]
